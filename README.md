@@ -1,9 +1,8 @@
 
-
-__________________________________![videoGif](https://user-images.githubusercontent.com/75439239/116317943-a705f900-a779-11eb-9811-82b40ed9973b.gif)
-
+_________________![videoGif](https://user-images.githubusercontent.com/75439239/116317943-a705f900-a779-11eb-9811-82b40ed9973b.gif)
 
 
+*************************************************************************************************************************************************************
 <p>Apasionado por la electrónica, automatización, y la creación de magia por medio del desarrollo web y la programación.</p>
 
 <h3>Lenguajes</h3>
