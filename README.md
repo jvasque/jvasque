@@ -8,19 +8,21 @@ _________________![videoGif](https://user-images.githubusercontent.com/75439239/
 <h3>Lenguajes</h3>
 <p>Tecnologías aprendidas y aplicadas hasta el momento:</p>
 
+<p color='red'>*Si no conoces los nombres de las tecnologías pasa el cursor del mouse sobre la imagen</p>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Javascript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/javascript.svg" align="left" height="48" width="48" title="javascript"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON"><img alt="Javascript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/json.svg" align="left" height="48" width="48" ></a>
 <a href="https://www.w3schools.com/html/default.asp"><img alt="HTML5" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/html.svg" align="left" height="48" width="48" title="HTML5" ></a>
-<a href="https://css-tricks.com/"><img alt="CSS3" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/css.svg" align="left" height="48" width="48" ></a>
+<a href="https://css-tricks.com/"><img title="CSS3" alt="CSS3" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/css.svg" align="left" height="48" width="48" ></a>
 <br/><br/>
 
 <h4>Frameworks and librerías</h4>
-<a href="https://reactjs.org/docs/hello-world.html"><img alt="React" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/react.svg" align="left" height="60" width="48" ></a>
+<a href="https://reactjs.org/docs/hello-world.html"><img title="React" alt="React" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/react.svg" align="left" height="60" width="48" ></a>
 <a href="https://redux.js.org/tutorials/essentials/part-1-overview-concepts"><img title="redux" alt="Redux" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/redux.svg" align="left" height="60" width="48" ></a>
 <a href="https://nodejs.org/dist/latest-v14.x/docs/api/"><img alt="Node" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/nodejs.svg" align="left" height="60" width="48" title="Node"></a>
 <a href="https://www.npmjs.com/"><img title="NPM" alt="NPM" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/npm.svg" align="left" height="60" width="60" ></a>
 <a href="https://expressjs.com/en/5x/api.html"><img title="Express" alt="Express" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/expressjs2.svg"  align="left" height="60" width="60" ></a>
-<a href="http://www.passportjs.org/docs/"><img title="passport" alt="Passport" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/passportjs.svg"  align="left" height="60" width="24" ></a>
+<a href="http://www.passportjs.org/docs/"><img title="Passport" alt="Passport" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/passportjs.svg"  align="left" height="60" width="24" ></a>
 <br/><br/>
 
 <h4>Bases de datos: </h4>
