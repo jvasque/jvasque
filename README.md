@@ -63,3 +63,8 @@ _________________![videoGif](https://user-images.githubusercontent.com/75439239/
 <a href="https://www.linkedin.com/in/jonathanandresvasquezvalle/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/linkedin-icon-2.svg" align="left" height="60" width="32" >Perfil de LinkedIn</a>
 
 <br/><br/>
+
+<p>Chapter Leader Codecademy</p>
+<a href="https://community.codecademy.com/u/mpfu8n/#/about"><img alt="codecademy" src="https://cdn.worldvectorlogo.com/logos/codecademy.svg" align="left" height="60" width="32" title="Chapter Leader">Perfil de codecademy</a>
+
+<br/><br/>
