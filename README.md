@@ -3,7 +3,7 @@ _________________![videoGif](https://user-images.githubusercontent.com/75439239/
 
 
 *************************************************************************************************************************************************************
-<p>Apasionado por la electrónica, automatización, y la creación de magia por medio del desarrollo web y la programación.</p>
+<p>Hola, soy Jonathan Vasquez. Apasionado por la electrónica, automatización, y la creación de magia por medio del desarrollo web y la programación.</p>
 
 <h3>Lenguajes</h3>
 <p>Tecnologías aprendidas y aplicadas hasta el momento:</p>
